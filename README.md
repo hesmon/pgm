@@ -6,6 +6,6 @@
 
 Date | Lecture | Scribes | Homework |
  ------------- | -------------------------- | ------------- | ------------- |
-Bahman 16, 1397 (Feb 5, 2019) | Lecture 1- Slides\ Introduction to probabilistic graphical models |  | HW1 & Project1 |
-Bahman 23, 1397 (Feb 12, 2019) | Bayesian networks - Slides |  |  |
+Bahman 16, 1397 (Feb 5, 2019) | Lecture 1- Slides <br>  - Introduction to probabilistic graphical models |  | HW1 & Project1 |
+Bahman 23, 1397 (Feb 12, 2019) | Lecture 2- Slides <br>  - Bayesian networks |  |  |
 
