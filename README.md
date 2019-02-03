@@ -10,6 +10,6 @@
 
 Date | Lecture | Reading Assignments | Homeworks & Projects |
  ------------- | -------------------------- | ------------- | ------------- |
-Bahman 16, 1397 (Feb 5, 2019) | Lecture 1- Introduction to probabilistic graphical models ([slides](lecture/01Introduction.pdf))  | **Required**: Koller Textbook, Sec. 1.2, 2.1 <br> **Optional**: Koller Textbook, Sec. 2.2 | Data Analysis Project #1: Learning Bayesian networks from gene expression data ([pdf](projects/project1.pdf)) |
+Bahman 16, 1397 (Feb 5, 2019) | Lecture 1- Introduction to probabilistic graphical models (slides)  | **Required**: Koller Textbook, Sec. 1.2, 2.1 <br> **Optional**: Koller Textbook, Sec. 2.2 | Data Analysis Project #1: Learning Bayesian networks from gene expression data ([pdf](projects/project1.pdf)) |
 Bahman 23, 1397 (Feb 12, 2019) | Lecture 2- Slides <br>  - Bayesian networks |  |  |
 
