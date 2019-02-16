@@ -10,9 +10,9 @@
 
 Date | Lecture | Reading Assignments | Homeworks & Projects |
  ------------- | -------------------------- | ------------- | ------------- |
-Bahman 16, 1397 | Lecture 1- Introduction to probabilistic graphical models ([slides](lectures/01Introduction.pdf))  | **Required**: Koller Textbook, Sec. 1.2, 2.1 <br> **Optional**: Koller Textbook, Sec. 2.2 |[Project 1](projects/project1.pdf "Data Analysis Project #1: Learning Bayesian networks from gene expression data") <br> [HW1](homeworks/HW1.pdf "Problem set 1") |
-Bahman 29, 1397 | Lecture 2- Bayesian networks (slides) <br> <br> Tutorial- Introduction to R by Samaneh Maleknia (slides)|  | HW2 | 
-Esfand 6, 1397 | Lecture 3 |  |  | 
-Esfand 13, 1397 | Lecture 4 |  |  | 
-Esfand 20, 1397 | Lecture 5 |  |  | 
-Farvardin 19, 1398 | Lecture 6 |  |  | 
+16/11/1397 | Lecture 1- Introduction to probabilistic graphical models ([slides](lectures/01Introduction.pdf))  | **Required**: Koller Textbook, Sec. 1.2, 2.1 <br> **Optional**: Koller Textbook, Sec. 2.2 |[Project 1](projects/project1.pdf "Data Analysis Project #1: Learning Bayesian networks from gene expression data") <br> [HW1](homeworks/HW1.pdf "Problem set 1") |
+29/11/1397 | Lecture 2- Bayesian networks (slides) <br> <br> Tutorial- Introduction to R by Samaneh Maleknia (slides)|  | HW2 | 
+6/12/1397 | Lecture 3 |  |  | 
+13/12/1397 | Lecture 4 |  |  | 
+20/12/1397 | Lecture 5 |  |  | 
+19/01/1398 | Lecture 6 |  |  | 
