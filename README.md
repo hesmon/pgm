@@ -3,7 +3,7 @@
 ## Overview
 - **Instructor**: Hesam Montazeri (hesam.montazeri at ut.ac.ir)
 - **Teaching Assistants**: Naser Elmi (naser.elmi at ut.ac.ir) & Samaneh Maleknia (maleknias at ut.ac.ir)
-- **Time & Location**: Lectures are held on Mondays 15:00 to 17:00 at Ghods st. 37, Department of Bioinformatics, IBB, Tehran.
+- **Time & Location**: Feb-July 2019, lectures are held on Mondays 15:00 to 17:00 at Ghods st. 37, Department of Bioinformatics, IBB, Tehran.
 - **Required textbook**: Probabilistic Graphical Models by Daphne Koller & Nir Friedman.
 
 ## Lecture Schedule
