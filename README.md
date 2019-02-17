@@ -11,7 +11,7 @@
 Date | Lecture | Reading Assignments | Homeworks & Projects |
  ------------- | -------------------------- | ------------- | ------------- |
 16/11/1397 | Lecture 1- Introduction to probabilistic graphical models ([slides](lectures/01Introduction.pdf))  | **Required**: Koller Textbook, Sec. 1.2, 2.1 <br> **Optional**: Koller Textbook, Sec. 2.2 |[Project 1](projects/project1.pdf "Data Analysis Project #1: Learning Bayesian networks from gene expression data") <br> [HW1](homeworks/HW1.pdf "Problem set 1") |
-29/11/1397 | Lecture 2- Bayesian networks (slides) <br> <br> Tutorial- Introduction to R by Samaneh Maleknia (slides)| **Required**: Koller Textbook, Sec. 3.1, 3.2, 3.3.1 <br> **Optional**: Koller Textbook, Sec. 3.3.2, 3.3.4| HW2 | 
+29/11/1397 | Lecture 2- Bayesian networks (slides) <br> <br> Tutorial- Introduction to R by Samaneh Maleknia (slides)| **Required**: Koller Textbook, Sec. 3.1, 3.2, 3.3.1 <br> **Optional**: Koller Textbook, Sec. 3.3.2, 3.3.4| [HW2](homeworks/HW2.pdf "Problem set 2") | 
 6/12/1397 | Lecture 3 |  |  | 
 13/12/1397 | Lecture 4 |  |  | 
 20/12/1397 | Lecture 5 |  |  | 
