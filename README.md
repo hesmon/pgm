@@ -16,3 +16,13 @@ Date | Lecture | Reading Assignments | Homeworks & Projects |
 13/12/1397 | Lecture 4 |  |  | 
 20/12/1397 | Lecture 5 |  |  | 
 19/01/1398 | Lecture 6 |  |  | 
+26/01/1398 | Lecture 7 |  |  |
+02/02/1398 | Lecture 8 |  |  |
+09/02/1398 | Lecture 9 |  |  |
+16/02/1398 | Lecture 10 |  |  |
+23/02/1398 | Lecture 11 |  |  |
+30/02/1398 | Lecture 12 |  |  |
+06/03/1398 | Lecture 13 |  |  |
+13/03/1398 | Lecture 14 |  |  |
+20/03/1398 | Lecture 15 |  |  |
+
