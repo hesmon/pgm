@@ -19,7 +19,7 @@ Date | Lecture | Reading Assignments | Homeworks & Projects |
 26/01/1398 | Lecture 7 |  |  |
 02/02/1398 | Lecture 8 |  |  |
 09/02/1398 | Lecture 9 |  |  |
-16/02/1398 | Lecture 10 |  |  |
+16/02/1398 | Lecture 10 |  | Project 3 |
 23/02/1398 | Lecture 11 |  |  |
 30/02/1398 | Lecture 12 |  |  |
 06/03/1398 | Lecture 13 |  |  |
