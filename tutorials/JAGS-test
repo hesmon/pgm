@@ -1,0 +1,55 @@
+#from https://www.rdocumentation.org/packages/jagsUI/versions/1.5.0/topics/jags
+#Load data (built into R)
+library(rjags)
+data(longley)
+head(longley)
+
+#Separate data objects
+
+gnp <- longley$GNP
+head(gnp)
+employed <- longley$Employed
+n <- length(employed)
+
+
+model <- "model{
+
+  #Likelihood
+  for (i in 1:n){ 
+
+    employed[i] ~ dnorm(mu[i], tau)     
+    mu[i] <- alpha + beta*gnp[i]
+
+  }
+    
+  #Priors
+  alpha ~ dnorm(0, 0.00001)
+  beta ~ dnorm(0, 0.00001)
+  sigma ~ dunif(0,1000)
+  tau <- pow(sigma,-2)
+}"
+
+# Write model out to file
+fileConn=file("model.temp")
+writeLines(model, fileConn)
+close(fileConn)
+
+#List must be specified as a character vector
+
+params <- c('alpha','beta','sigma')
+#Call jags function; specify number of chains, number of adaptive iterations,
+#the length of the burn-in period, total iterations, and the thin rate.
+
+jags <-jags.model(file="model.temp",  
+                  data = list("gnp"=gnp,"employed"=employed,"n"=n),
+                  n.chains = 4,
+                  n.adapt = 100)
+
+mcmc.samples <- coda.samples(jags,
+                             c('alpha','beta','sigma'),
+                             10000)           
+plot(mcmc.samples)
+densplot(mcmc.samples)
+traceplot(mcmc.samples)
+summary(mcmc.samples)
+
