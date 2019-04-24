@@ -17,8 +17,8 @@ Date | Lecture | Reading Assignments | Homeworks & Projects |
 20/12/1397 | Lecture 5- Learning Bayesian networks (MLE, fully observed data) ([slides](lectures/05learning-overview.pdf))  <br> <br> Tutorial 3- Introduction to overfitting, Beta and Dirichlet distributions  ([slides](tutorials/03IntroToOverfitting.pdf)) | **Required**: Koller Textbook, Sec. 17.1-2  <br> **Optional**:  Koller Textbook, Ch. 16 |  [HW5](homeworks/HW5.pdf) <br>  [HW5.csv](homeworks/HW5.csv) | 
 21/01/1398 | Lecture 6- Bayesian paramater estimation ([slides](lectures/06bayesian-parameter-estimation.pdf)) | **Required**: Koller Textbook, Sec. 17.3 | [Project 2](projects/project2.pdf)  <br> [HW6](homeworks/HW6.pdf)  | 
 28/01/1398 | Lecture 7- Bayesian parameter estimation; constraint-based structure learning ([slides](lectures/07parameter-and-structure-learning.pdf)) <br> <br> Tutorial 4- Introduction to information theory and JAGS ([slides](tutorials/04IntroToITandJAGS.pdf)) | **Required**: Koller Textbook, Sec. 17.4.1-3, 18.1-2, 3.4.3   | [HW7](homeworks/HW7.pdf) <br>  [JAGS-Example](tutorials/JAGS-test)  |
-04/02/1398 | Lecture 8- Score-based structure learning ([slides](lectures/08score-based-structure-learning.pdf))|  |  |
-11/02/1398 | Lecture 9 |  |  |
+04/02/1398 | Lecture 8- Score-based structure learning ([slides](lectures/08score-based-structure-learning.pdf))|  **Required**: Koller Textbook, Sec. 18.3, 18.4.1 | HW8  |
+11/02/1398 | Lecture 9 |  |  HW9 |
 18/02/1398 | Lecture 10 |  |  |
 25/02/1398 | Lecture 11 |  |  |
 1/03/1398 | Lecture 12 |  |  |
