@@ -23,6 +23,6 @@ Date | Lecture | Reading Assignments | Homeworks & Projects |
 25/02/1398 | Lecture 11 |  |  |
 1/03/1398 | Lecture 12 |  |  |
 08/03/1398 | Lecture 13 |  |  |
-15/03/1398 | Lecture 14 |  |  |
-22/03/1398 | Lecture 15 |  |  |
+13/03/1398 | Lecture 14 |  |  |
+
 
