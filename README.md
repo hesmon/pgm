@@ -4,7 +4,9 @@
 - **Instructor**: Hesam Montazeri (hesam.montazeri at ut.ac.ir)
 - **Teaching Assistants**: Naser Elmi (naser.elmi at ut.ac.ir) & Samaneh Maleknia (maleknias at ut.ac.ir) & Fahimeh Palizban (fahimehpalizban at ut.ac.ir)
 - **Time & Location**: Feb-July 2019, lectures are held on Wednesdays 10:00 to 12:00 at Ghods st. 37, Department of Bioinformatics, IBB, Tehran.
-- **Required textbook**: Probabilistic Graphical Models by Daphne Koller & Nir Friedman.
+### Textbooks
+- Probabilistic Graphical Models by Daphne Koller & Nir Friedman.
+- Pattern Recognition and Machine Learning by  Christopher Bishop.
 
 ## Lecture Schedule
 
@@ -19,7 +21,7 @@ Date | Lecture | Reading Assignments | Homeworks & Projects |
 28/01/1398 | Lecture 7- Bayesian parameter estimation; constraint-based structure learning ([slides](lectures/07parameter-and-structure-learning.pdf)) <br> <br> Tutorial 4- Introduction to information theory and JAGS ([slides](tutorials/04IntroToITandJAGS.pdf)) | **Required**: Koller Textbook, Sec. 17.4.1-3, 18.1-2, 3.4.3   | [HW7](homeworks/HW7.pdf) <br>  [JAGS-Example](tutorials/JAGS-test)  |
 04/02/1398 | Lecture 8- Score-based structure learning ([slides](lectures/08score-based-structure-learning.pdf))|  **Required**: Koller Textbook, Sec. 18.3, 18.4.1 | [HW8](homeworks/HW8.pdf)  |
 11/02/1398 | Lecture 9- Score-based structure learning; partially observed data ([slides](lectures/09structure-learning-and-partially-observed-data.pdf)) | **Required**: Koller Textbook, Sec. 18.4.1-3, 19.1.3, 19.2.1, A.5.1, A.5.2.1 <br> **Optional**: Koller Textbook, Sec. 18.5 |   [HW9](homeworks/HW9.pdf) |
-18/02/1398 |  Lecture 10-Expectation-maximization; regulatory motif finding |  | Project 3 <br> HW10 |
+18/02/1398 |  Lecture 10-Expectation-maximization; regulatory motif finding | **Required**: Koller Textbook, Sec. 19.2.2 <br> Quang  2014, [EXTREME: an online EM algorithm for motif discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4058924/), Section 2.1. <br> **Optional**: Bishop Textbook, Sec. 2.3.9, 9.2-3| Project 3 <br> [HW10](homeworks/HW10.pdf) |
 25/02/1398 | Lecture 11 |  |  |
 1/03/1398 | Lecture 12 |  |  |
 08/03/1398 | Lecture 13 |  |  |
