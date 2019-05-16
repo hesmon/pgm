@@ -22,7 +22,7 @@ Date | Lecture | Reading Assignments | Homeworks & Projects |
 04/02/1398 | Lecture 8- Score-based structure learning ([slides](lectures/08score-based-structure-learning.pdf))|  **Required**: Koller Textbook, Sec. 18.3, 18.4.1 | [HW8](homeworks/HW8.pdf)  |
 11/02/1398 | Lecture 9- Score-based structure learning; partially observed data ([slides](lectures/09structure-learning-and-partially-observed-data.pdf)) | **Required**: Koller Textbook, Sec. 18.4.1-3, 19.1.3, 19.2.1, A.5.1, A.5.2.1 <br> **Optional**: Koller Textbook, Sec. 18.5 |   [HW9](homeworks/HW9.pdf) |
 18/02/1398 |  Lecture 10-Expectation-maximization; regulatory motif finding ([slides](lectures/10expectation-maximization.pdf)) | **Required**: Koller Textbook, Sec. 19.2.2 and Section 2.1 of [Quang  2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4058924/). <br> **Optional**: Bishop Textbook, Sec. 2.3.9, 9.2-3| [Project 3](projects/project3.pdf) <br> [P3-Data](projects/project3_datasets.RData) <br> [HW10](homeworks/HW10.pdf) |
-25/02/1398 | Lecture 11- Undirected graphical models; variable elimination ([slides](lectures/11markov-networks-and-VE.pdf)) | **Required**: Koller Textbook, Sec. 4.1-2, 9.2, 9.3.1 | HW11  |
+25/02/1398 | Lecture 11- Undirected graphical models; variable elimination ([slides](lectures/11markov-networks-and-VE.pdf)) | **Required**: Koller Textbook, Sec. 4.1-2, 9.2, 9.3.1 | [HW11](homeworks/HW11.pdf)  |
 1/03/1398 | Lecture 12 |  |  |
 08/03/1398 | Lecture 13 |  |  |
 13/03/1398 | Lecture 14 |  |  |
