@@ -25,6 +25,7 @@ Date | Lecture | Reading Assignments | Homeworks & Projects |
 25/02/1398 | Lecture 11- Undirected graphical models; variable elimination ([slides](lectures/11markov-networks-and-VE.pdf)) | **Required**: Koller Textbook, Sec. 4.1-2, 9.2, 9.3.1 | [HW11](homeworks/HW11.pdf)  |
 1/03/1398 | Lecture 12- Variable elimination; Gibbs sampling for motif finding ([slides](lectures/12VE-Gibbs-sampling-for-motif-finding.pdf)) | Koller Textbook, Sec.  9.3.2, 9.4.2; Compeau Textbook, Ch. 2 | [HW12](homeworks/HW12.pdf) |
 08/03/1398 | Lecture 13 |  |  |
-13/03/1398 | Lecture 14 |  |  |
+08/03/1398 | Lecture 14 |  |  |
+13/03/1398 | Lecture 15 |  |  |
 
 
