@@ -24,8 +24,8 @@ Date | Lecture | Reading Assignments | Homeworks & Projects |
 18/02/1398 |  Lecture 10-Expectation-maximization; regulatory motif finding ([slides](lectures/10expectation-maximization.pdf)) | **Required**: Koller Textbook, Sec. 19.2.2 and Section 2.1 of [Quang  2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4058924/). <br> **Optional**: Bishop Textbook, Sec. 2.3.9, 9.2-3| [Project 3](projects/project3.pdf) <br> [P3-Data](projects/project3_datasets.RData) <br> [HW10](homeworks/HW10.pdf) |
 25/02/1398 | Lecture 11- Undirected graphical models; variable elimination ([slides](lectures/11markov-networks-and-VE.pdf)) | **Required**: Koller Textbook, Sec. 4.1-2, 9.2, 9.3.1 | [HW11](homeworks/HW11.pdf)  |
 1/03/1398 | Lecture 12- Variable elimination; Gibbs sampling for motif finding ([slides](lectures/12VE-Gibbs-sampling-for-motif-finding.pdf)) | Koller Textbook, Sec.  9.3.2, 9.4.2; Compeau Textbook, Ch. 2 | [HW12](homeworks/HW12.pdf) |
-08/03/1398 | Lecture 13- Clique trees; MAP inference ([slides](lectures/13clique-trees.pdf)) |  | - |
-08/03/1398 | Lecture 14- Bayesian networks for temporal data ([slides](lectures/14temporal-models.pdf)) |  | HW13/14  |
+08/03/1398 | Lecture 13- Clique trees; MAP inference ([slides](lectures/13clique-trees.pdf)) | Koller Textbook, Sec. 10.1, 10.2.1-2, 10.4, 13.1.2, 13.2 | - |
+08/03/1398 | Lecture 14- Bayesian networks for temporal data ([slides](lectures/14temporal-models.pdf)) |   | HW13/14  |
 13/03/1398 | Lecture 15 |  |  |
 
 
