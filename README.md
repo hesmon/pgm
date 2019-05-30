@@ -25,7 +25,7 @@ Date | Lecture | Reading Assignments | Homeworks & Projects |
 25/02/1398 | Lecture 11- Undirected graphical models; variable elimination ([slides](lectures/11markov-networks-and-VE.pdf)) | **Required**: Koller Textbook, Sec. 4.1-2, 9.2, 9.3.1 | [HW11](homeworks/HW11.pdf)  |
 1/03/1398 | Lecture 12- Variable elimination; Gibbs sampling for motif finding ([slides](lectures/12VE-Gibbs-sampling-for-motif-finding.pdf)); Gaussian mixture model (whiteboard notes) | Koller Textbook, Sec.  9.3.2, 9.4.2; Compeau Textbook, Ch. 2 | [HW12](homeworks/HW12.pdf) |
 08/03/1398 | Lecture 13- Clique trees; MAP inference ([slides](lectures/13clique-trees.pdf)) | Koller Textbook, Sec. 10.1, 10.2.1-2, 10.4, 13.1.2, 13.2 |  |
-08/03/1398 | Lecture 14- Bayesian networks for temporal data ([slides](lectures/14temporal-models.pdf)) (whiteboard notes) | Koller Textbook, 6.1-2  Compeau Textbook, Ch. 10 |  [HW13/14](homeworks/HW13-14.pdf) <br> [Data](homeworks/HW13-14-data.zip)  |
+08/03/1398 | Lecture 14- Bayesian networks for temporal data ([slides](lectures/14temporal-models.pdf)) (whiteboard notes) | Koller Textbook, 6.1-2  Compeau Textbook, Ch. 10 |  [HW13/14](homeworks/HW13-14.pdf) <br> [Data](homeworks/HW13-14-data.zip) <br> [R code](homeworks/HW13-14.r) |
 13/03/1398 | Lecture 15- Particle-based approximate inference | Koller Textbook, ch. 12  | HW15  |
 
 
