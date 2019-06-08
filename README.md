@@ -1,7 +1,7 @@
 # Probabilistic Graphical Models in Bioinformatics
 
 ## Overview
-- **Instructor**: Hesam Montazeri (hesam.montazeri at ut.ac.ir)
+- **Instructor**: [Hesam Montazeri](http://lcbb.ut.ac.ir) (hesam.montazeri at ut.ac.ir)
 - **Teaching Assistants**: Naser Elmi (naser.elmi at ut.ac.ir) & Samaneh Maleknia (maleknias at ut.ac.ir) & Fahimeh Palizban (fahimehpalizban at ut.ac.ir)
 - **Time & Location**: Feb-July 2019, lectures are held on Wednesdays 10:00 to 12:00 at Ghods st. 37, Department of Bioinformatics, IBB, Tehran.
 ### Textbooks
