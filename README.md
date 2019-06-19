@@ -9,7 +9,7 @@
 - Pattern Recognition and Machine Learning by  Christopher Bishop.
 
 ### Final exam
-- [Final2019](resources/final-exam-2019.pdf)
+- [Final 2019](resources/final-exam-2019.pdf)
 
 ## Lecture Schedule
 
