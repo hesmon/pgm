@@ -15,7 +15,7 @@
 
 Date | Lecture | Reading Assignments | Homeworks & Projects |
  ------------- | -------------------------- | ------------- | ------------- |
-2/07/1399 | Lecture 1- Introduction to probabilistic graphical models (slides)  | **Required**:  | |
-9/07/1399 | Lecture 2- Bayesian network representation slides | **Required**: | | 
+2/07/1399 | Lecture 1- Introduction to probabilistic graphical models  | **Required**:  | |
+9/07/1399 | Lecture 2- Bayesian network representation | **Required**: | | 
 
 
