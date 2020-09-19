@@ -7,6 +7,9 @@
 - Probabilistic Graphical Models by Daphne Koller & Nir Friedman.
 - Pattern Recognition and Machine Learning by  Christopher Bishop.
 
+### Previous Offerings
+- [Spring 2019](PreviousOfferings/Spring2019/) 
+
 ### Exam
 - [Final 2019](resources/final-exam-2019.pdf)
 
